@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pratoy-uiu-git
+- 👀 I’m interested in coding, gaming, capturing photos
+- 🌱 I’m currently learning C programming
+- 📫 How to reach me: patoy16@gmail.com
